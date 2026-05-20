@@ -80,6 +80,4 @@ Blog-app-Main/
    ```
 
 
-## Author
 
-**Abhishikth Paul Ganta**
